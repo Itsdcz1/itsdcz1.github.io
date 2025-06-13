@@ -9,65 +9,65 @@
   KDR: '1.21'
   deaths: 114
 da6e223a-f49b-467a-8b7f-bd25618f7342:
-  kills: 225
+  kills: 233
   name: ComradeFousas
-  KDR: '0.91'
-  deaths: 247
+  KDR: '0.92'
+  deaths: 253
 3c06f6e8-9a37-41cf-b289-10a8347bda31:
   kills: 175
   name: BalkanBoyRico
   KDR: '1.23'
   deaths: 142
 9e90a170-7a79-4f43-91c4-327e1a7acd71:
-  deaths: 182
+  deaths: 203
   name: Georgios_Caticus
-  KDR: '0.82'
-  kills: 149
+  KDR: '0.80'
+  kills: 162
 5595f795-7c29-4529-bb14-031e8a377f3e:
-  deaths: 111
+  deaths: 144
   name: Sc0per
-  KDR: '2.40'
-  kills: 266
+  KDR: '2.61'
+  kills: 376
 86b6b5a4-1a07-4634-801a-42f6120b5987:
-  deaths: 53
+  deaths: 58
   name: CommandoPea
-  KDR: '1.02'
-  kills: 54
+  KDR: '1.21'
+  kills: 70
 e061dec4-44c8-4e34-950a-f76eec663f6d:
-  deaths: 53
+  deaths: 66
   name: NijePavle
-  KDR: '0.28'
-  kills: 15
+  KDR: '0.39'
+  kills: 26
 78cfc07f-2e82-4bc9-ad17-374e5a89e980:
   kills: 38
   name: averagelittleboy
   KDR: '1.46'
   deaths: 26
 f6ae1f87-d5dd-4e94-8730-9e79caecedfb:
-  deaths: 190
+  deaths: 292
   name: Pizzagod778
-  KDR: '0.38'
-  kills: 73
+  KDR: '0.40'
+  kills: 117
 ecb1824d-ab52-44f7-8b6c-f79d833d023e:
   kills: 14
   name: Georgevits
   KDR: '0.48'
   deaths: 29
 1d7357c5-8ba6-4083-a35b-9e5cfdc03831:
-  deaths: 9
+  deaths: 18
   name: xEsql
-  KDR: '0.33'
-  kills: 3
+  KDR: '0.39'
+  kills: 7
 073dc0ca-37c7-4477-86b8-c846722d528d:
   kills: 1
   name: YouGqtL
   KDR: '0.25'
   deaths: 4
 b4f004b3-52a7-42c4-8731-ddf9051d5455:
-  kills: 19
+  kills: 29
   name: Kristijan_V
-  KDR: '1.73'
-  deaths: 11
+  KDR: '1.16'
+  deaths: 25
 317c40cd-65db-4725-b554-651f8d111d72:
   deaths: 10
   name: PaP1Duck
@@ -84,10 +84,10 @@ b4f004b3-52a7-42c4-8731-ddf9051d5455:
   KDR: '3.25'
   deaths: 4
 c732b472-ae07-475a-90b1-ab935b2af1e0:
-  deaths: 23
+  deaths: 26
   name: banankaka2022
-  KDR: '0.61'
-  kills: 14
+  KDR: '0.65'
+  kills: 17
 818704f8-98cb-4cef-9c31-e135ecaba28b:
   kills: 16
   name: Supermanss
@@ -104,10 +104,10 @@ c732b472-ae07-475a-90b1-ab935b2af1e0:
   KDR: '0.08'
   kills: 1
 140740bb-8f69-4c64-8e8c-459f75a10000:
-  kills: 15
+  kills: 25
   name: IAMNOT_AMENACE
-  KDR: '0.29'
-  deaths: 51
+  KDR: '0.40'
+  deaths: 62
 f230f4e8-2dbb-4c63-b835-f29f9916326a:
   kills: 6
   name: C1WS
@@ -119,7 +119,21 @@ f230f4e8-2dbb-4c63-b835-f29f9916326a:
   KDR: '0.81'
   kills: 22
 9e8df1bb-0eae-4788-871c-c1ec1269dff9:
-  kills: 37
+  kills: 40
   name: PotatoDough
-  KDR: '1.09'
-  deaths: 34
+  KDR: '0.95'
+  deaths: 42
+0671591e-c7a1-42fe-8b28-d0edb8140935:
+  kills: 43
+  name: GregoryTheGreazt
+  KDR: '1.19'
+  deaths: 36
+20871b05-a818-4ec2-be98-466b1cd400f8:
+  kills: 5
+  name: Isikus
+  KDR: '0.42'
+  deaths: 12
+8e54a723-ebcd-47aa-abd8-06a73c513f4f:
+  deaths: 7
+  name: Itz_Opp121
+  KDR: '0.00'
