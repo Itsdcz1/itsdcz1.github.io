@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Preyella Events</title>
+  <link rel="icon" type="image/x-icon" href="512.ico">
+  <!-- Include Montserrat -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    background: url('https://cdn.discordapp.com/attachments/967406586798678096/1383066463891361892/bgsigma3141.png?ex=684d7085&is=684c1f05&hm=726154aea0a6d177abfa5e240dbc0d3b8083fc3bc31584194d575f9d3325383b&') no-repeat center center/cover;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .panel {
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(8px);
+    border-radius: 12px;
+    padding: 20px;
+    max-width: 800px;
+    width: 100%;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  }
+
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .table thead {
+    background: #f0f0f0;
+    font-weight: bold;
+    text-align: left;
+  }
+
+  .table th, .table td {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+
+  .player-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .player-head {
+    width: 32px;
+    height: 32px;
+    border-radius: 4px;
+  }
+
+  .player-name {
+    text-transform: uppercase;
+  }
+
+  .kills {
+    color: green;
+  }
+
+  .deaths {
+    color: red;
+  }
+
+  .kdr {
+    color: #555;
+  }
+
+  .sortable::after {
+    content: " ⬍";
+    font-size: 0.8em;
+  }
+</style>
+</head>
+<body>
+
+<div class="panel">
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Player</th>
+        <th>#</th>
+        <th class="sortable" data-sort="kills">Kills</th>
+        <th class="sortable" data-sort="deaths">Deaths</th>
+        <th class="sortable" data-sort="KDR">KDR</th>
+      </tr>
+    </thead>
+    <tbody id="stats-body"></tbody>
+  </table>
+</div>
+
+<!-- YAML parser -->
+<script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+<script>
+  let playerData = {};
+  let currentSort = { key: "KDR", desc: true };
+
+  async function loadStats() {
+    try {
+      const response = await fetch('stats.yml');
+      const yamlText = await response.text();
+      playerData = jsyaml.load(yamlText);
+      renderTable();
+    } catch (err) {
+      console.error("Failed to load stats.yml:", err);
+    }
+  }
+
+  function sortPlayers(data, key, desc = true) {
+    return Object.entries(data).sort(([, a], [, b]) => {
+      const valA = parseFloat(a[key]);
+      const valB = parseFloat(b[key]);
+      return desc ? valB - valA : valA - valB;
+    });
+  }
+
+  function renderTable() {
+    const tbody = document.getElementById("stats-body");
+    tbody.innerHTML = "";
+
+    const sortedPlayers = sortPlayers(playerData, currentSort.key, currentSort.desc);
+
+    sortedPlayers.forEach(([uuid, data], index) => {
+      const row = document.createElement("tr");
+
+      const playerCell = document.createElement("td");
+      playerCell.innerHTML = `
+        <div class="player-row">
+          <img class="player-head" src="https://mc-heads.net/avatar/${uuid}" alt="${data.name}" />
+          <strong class="player-name">${data.name}</strong>
+        </div>
+      `;
+
+      const rankCell = document.createElement("td");
+      rankCell.textContent = index + 1;
+
+      const killsCell = document.createElement("td");
+      killsCell.innerHTML = `<span class="kills">${data.kills}</span>`;
+
+      const deathsCell = document.createElement("td");
+      deathsCell.innerHTML = `<span class="deaths">${data.deaths}</span>`;
+
+      const kdrCell = document.createElement("td");
+      kdrCell.innerHTML = `<span class="kdr">${data.KDR}</span>`;
+
+      row.appendChild(playerCell);
+      row.appendChild(rankCell);
+      row.appendChild(killsCell);
+      row.appendChild(deathsCell);
+      row.appendChild(kdrCell);
+      tbody.appendChild(row);
+    });
+  }
+
+  document.querySelectorAll('.sortable').forEach(header => {
+    header.addEventListener('click', () => {
+      const key = header.getAttribute('data-sort');
+      if (currentSort.key === key) {
+        currentSort.desc = !currentSort.desc; // toggle
+      } else {
+        currentSort = { key: key, desc: true };
+      }
+      renderTable();
+    });
+  });
+
+  loadStats();
+</script>
+
+</body>
+</html>
