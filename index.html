@@ -105,12 +105,12 @@
 
   async function loadStats() {
     try {
-      const response = await fetch('stats.yml');
-      const yamlText = await response.text();
-      playerData = jsyaml.load(yamlText);
-      renderTable();
+        const response = await fetch(`stats.yml?nocache=${Date.now()}`);
+        const yamlText = await response.text();
+        playerData = jsyaml.load(yamlText);
+        renderTable();
     } catch (err) {
-      console.error("Failed to load stats.yml:", err);
+        console.error("Failed to load stats.yml:", err);
     }
   }
 
