@@ -12,22 +12,22 @@ da6e223a-f49b-467a-8b7f-bd25618f7342:
   kills: 304
   name: ComradeFousas
   KDR: '1.01'
-  deaths: 301
+  deaths: 302
 3c06f6e8-9a37-41cf-b289-10a8347bda31:
-  kills: 182
+  kills: 183
   name: BalkanBoyRico
-  KDR: '1.21'
+  KDR: '1.22'
   deaths: 150
 9e90a170-7a79-4f43-91c4-327e1a7acd71:
-  deaths: 265
+  deaths: 280
   name: Georgios_Caticus
   KDR: '0.91'
-  kills: 242
+  kills: 254
 5595f795-7c29-4529-bb14-031e8a377f3e:
-  deaths: 146
+  deaths: 156
   name: Sc0per
-  KDR: '2.71'
-  kills: 395
+  KDR: '2.65'
+  kills: 414
 86b6b5a4-1a07-4634-801a-42f6120b5987:
   deaths: 58
   name: CommandoPea
@@ -94,10 +94,10 @@ c732b472-ae07-475a-90b1-ab935b2af1e0:
   KDR: '1.10'
   deaths: 40
 3e852da0-f8c4-4083-b5af-a6128fc06909:
-  deaths: 61
+  deaths: 72
   name: 514k_
-  KDR: '1.89'
-  kills: 115
+  KDR: '1.74'
+  kills: 125
 67acfc5e-f935-4072-9dd5-ee676449c094:
   deaths: 12
   name: mariozane8731
@@ -176,10 +176,10 @@ f37a6294-7b88-4016-89f8-703ef2388136:
   KDR: '0.39'
   kills: 20
 a9d60e02-0c8d-4d56-918e-e92b13bbecac:
-  kills: 53
+  kills: 63
   name: Zombto
-  KDR: '2.79'
-  deaths: 19
+  KDR: '2.10'
+  deaths: 30
 1ad44ae4-18e8-4e4a-afb8-93894f16f3f2:
   kills: 27
   name: Flo_0608
@@ -191,12 +191,27 @@ a9d60e02-0c8d-4d56-918e-e92b13bbecac:
   KDR: '0.83'
   kills: 15
 4edaac43-fafb-43d0-8bf9-1ce605e6af2c:
-  kills: 9
+  kills: 18
   name: Green_Kenny
-  KDR: '0.53'
-  deaths: 17
+  KDR: '0.86'
+  deaths: 21
 79eec0a4-8d7e-4802-9a49-c7028d24759c:
   kills: 14
   name: vagdimGR
   KDR: '0.82'
   deaths: 17
+305f71e4-a1ab-48da-b47d-0b2d245778c7:
+  deaths: 22
+  name: Synergyz_
+  KDR: '0.59'
+  kills: 13
+4ef93bf2-29a7-41dd-bc9b-0efb5bed2f4f:
+  kills: 5
+  name: Shroudyw
+  KDR: '0.63'
+  deaths: 8
+e66c931a-ea93-443f-aff9-c554b9e6c6af:
+  deaths: 5
+  name: wezyqp
+  KDR: '1.60'
+  kills: 8
