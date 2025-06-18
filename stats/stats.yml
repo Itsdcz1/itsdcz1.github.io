@@ -9,25 +9,25 @@
   KDR: '1.43'
   deaths: 233
 da6e223a-f49b-467a-8b7f-bd25618f7342:
-  kills: 304
+  kills: 316
   name: ComradeFousas
-  KDR: '1.01'
-  deaths: 302
+  KDR: '1.02'
+  deaths: 310
 3c06f6e8-9a37-41cf-b289-10a8347bda31:
   kills: 183
   name: BalkanBoyRico
   KDR: '1.22'
   deaths: 150
 9e90a170-7a79-4f43-91c4-327e1a7acd71:
-  deaths: 291
+  deaths: 319
   name: Georgios_Caticus
-  KDR: '0.91'
-  kills: 266
+  KDR: '0.90'
+  kills: 288
 5595f795-7c29-4529-bb14-031e8a377f3e:
-  deaths: 197
+  deaths: 220
   name: Sc0per
-  KDR: '2.49'
-  kills: 491
+  KDR: '2.42'
+  kills: 533
 86b6b5a4-1a07-4634-801a-42f6120b5987:
   deaths: 59
   name: CommandoPea
@@ -129,19 +129,19 @@ f230f4e8-2dbb-4c63-b835-f29f9916326a:
   KDR: '1.13'
   deaths: 231
 20871b05-a818-4ec2-be98-466b1cd400f8:
-  kills: 5
+  kills: 13
   name: Isikus
-  KDR: '0.42'
-  deaths: 12
+  KDR: '0.50'
+  deaths: 26
 8e54a723-ebcd-47aa-abd8-06a73c513f4f:
   deaths: 7
   name: Itz_Opp121
   KDR: '0.00'
 f7a60482-f345-41b5-973c-635aaf139cba:
-  deaths: 157
+  deaths: 191
   name: Apterius
-  KDR: '0.46'
-  kills: 73
+  KDR: '0.49'
+  kills: 94
 dec41ecc-9dcf-41dd-bfc8-9d336fc0013c:
   deaths: 110
   name: RobinSGE3361
@@ -230,3 +230,8 @@ ea2a234c-e493-450b-b59b-ef314bc4a88b:
   name: Flamehd1234
   KDR: '1.33'
   kills: 36
+5b98860a-0bb1-4b65-b756-5868cfe25f55:
+  deaths: 4
+  name: k3rneI
+  KDR: '1.50'
+  kills: 6
