@@ -2,7 +2,7 @@ body {
       margin: 0;
       padding: 0;
       font-family: 'Montserrat', sans-serif;
-      background: url('https://cdn.discordapp.com/attachments/967406586798678096/1383066463891361892/bgsigma3141.png?ex=684e1945&is=684cc7c5&hm=56cb00e7d75c188c803caa18ce7d58f7b9e32cf76f86bb038349d099f47d5d99&') no-repeat center center/cover;
+      background: url(../../img/background.png) no-repeat center center/cover;
       min-height: 100vh;
       display: flex;
       flex-direction: column;
