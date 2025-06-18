@@ -94,10 +94,10 @@ c732b472-ae07-475a-90b1-ab935b2af1e0:
   KDR: '1.10'
   deaths: 40
 3e852da0-f8c4-4083-b5af-a6128fc06909:
-  deaths: 88
+  deaths: 95
   name: 514k_
-  KDR: '1.82'
-  kills: 160
+  KDR: '1.73'
+  kills: 164
 67acfc5e-f935-4072-9dd5-ee676449c094:
   deaths: 12
   name: mariozane8731
@@ -143,10 +143,10 @@ f7a60482-f345-41b5-973c-635aaf139cba:
   KDR: '0.46'
   kills: 73
 dec41ecc-9dcf-41dd-bfc8-9d336fc0013c:
-  deaths: 61
+  deaths: 110
   name: RobinSGE3361
-  KDR: '0.33'
-  kills: 20
+  KDR: '0.51'
+  kills: 56
 dcb4eb03-bd3a-4aaa-b24a-569a0de676b5:
   kills: 7
   name: 3adsw2
@@ -176,10 +176,10 @@ f37a6294-7b88-4016-89f8-703ef2388136:
   KDR: '0.39'
   kills: 20
 a9d60e02-0c8d-4d56-918e-e92b13bbecac:
-  kills: 63
+  kills: 70
   name: Zombto
-  KDR: '2.10'
-  deaths: 30
+  KDR: '2.06'
+  deaths: 34
 1ad44ae4-18e8-4e4a-afb8-93894f16f3f2:
   kills: 27
   name: Flo_0608
@@ -215,3 +215,18 @@ e66c931a-ea93-443f-aff9-c554b9e6c6af:
   name: wezyqp
   KDR: '2.86'
   kills: 20
+565df65a-298c-4192-bf57-a536dcfea0d1:
+  deaths: 27
+  name: Kampfschwein297
+  KDR: '0.93'
+  kills: 25
+12cf91fe-0f06-46e8-8407-d0bf9c6038f0:
+  kills: 37
+  name: JustLead
+  KDR: '1.19'
+  deaths: 31
+ea2a234c-e493-450b-b59b-ef314bc4a88b:
+  deaths: 27
+  name: Flamehd1234
+  KDR: '1.33'
+  kills: 36
