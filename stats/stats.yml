@@ -4,30 +4,30 @@
   KDR: '0.40'
   kills: 2
 6f1f9b65-7d46-4ee6-9d3f-db3911e0c311:
-  kills: 334
+  kills: 345
   name: dcz1
-  KDR: '1.43'
-  deaths: 233
+  KDR: '1.46'
+  deaths: 236
 da6e223a-f49b-467a-8b7f-bd25618f7342:
-  kills: 316
+  kills: 338
   name: ComradeFousas
-  KDR: '1.02'
-  deaths: 310
+  KDR: '1.01'
+  deaths: 335
 3c06f6e8-9a37-41cf-b289-10a8347bda31:
-  kills: 183
+  kills: 218
   name: BalkanBoyRico
-  KDR: '1.22'
-  deaths: 150
+  KDR: '1.23'
+  deaths: 177
 9e90a170-7a79-4f43-91c4-327e1a7acd71:
-  deaths: 319
+  deaths: 353
   name: Georgios_Caticus
-  KDR: '0.90'
-  kills: 288
+  KDR: '0.88'
+  kills: 309
 5595f795-7c29-4529-bb14-031e8a377f3e:
-  deaths: 220
+  deaths: 221
   name: Sc0per
-  KDR: '2.42'
-  kills: 533
+  KDR: '2.45'
+  kills: 541
 86b6b5a4-1a07-4634-801a-42f6120b5987:
   deaths: 59
   name: CommandoPea
@@ -104,10 +104,10 @@ c732b472-ae07-475a-90b1-ab935b2af1e0:
   KDR: '0.08'
   kills: 1
 140740bb-8f69-4c64-8e8c-459f75a10000:
-  kills: 25
+  kills: 36
   name: IAMNOT_AMENACE
-  KDR: '0.40'
-  deaths: 62
+  KDR: '0.47'
+  deaths: 77
 f230f4e8-2dbb-4c63-b835-f29f9916326a:
   kills: 6
   name: C1WS
@@ -143,10 +143,10 @@ f7a60482-f345-41b5-973c-635aaf139cba:
   KDR: '0.49'
   kills: 94
 dec41ecc-9dcf-41dd-bfc8-9d336fc0013c:
-  deaths: 110
+  deaths: 118
   name: RobinSGE3361
-  KDR: '0.51'
-  kills: 56
+  KDR: '0.48'
+  kills: 57
 dcb4eb03-bd3a-4aaa-b24a-569a0de676b5:
   kills: 7
   name: 3adsw2
@@ -218,8 +218,8 @@ e66c931a-ea93-443f-aff9-c554b9e6c6af:
 565df65a-298c-4192-bf57-a536dcfea0d1:
   deaths: 27
   name: Kampfschwein297
-  KDR: '0.93'
-  kills: 25
+  KDR: '1.07'
+  kills: 29
 12cf91fe-0f06-46e8-8407-d0bf9c6038f0:
   kills: 37
   name: JustLead
@@ -235,3 +235,8 @@ ea2a234c-e493-450b-b59b-ef314bc4a88b:
   name: k3rneI
   KDR: '1.50'
   kills: 6
+318d9c51-8495-4256-9c05-a33e810f9779:
+  kills: 3
+  name: dcz3
+  KDR: '1.00'
+  deaths: 3
