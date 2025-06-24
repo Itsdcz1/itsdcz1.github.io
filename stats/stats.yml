@@ -4,35 +4,35 @@
   KDR: '1.40'
   kills: 7
 6f1f9b65-7d46-4ee6-9d3f-db3911e0c311:
-  kills: 431
+  kills: 452
   name: dcz1
   KDR: '1.39'
-  deaths: 311
+  deaths: 325
 da6e223a-f49b-467a-8b7f-bd25618f7342:
-  kills: 447
+  kills: 448
   name: ComradeFousas
-  KDR: '0.99'
-  deaths: 453
+  KDR: '0.98'
+  deaths: 457
 3c06f6e8-9a37-41cf-b289-10a8347bda31:
   kills: 267
   name: BalkanBoyRico
   KDR: '1.06'
   deaths: 251
 9e90a170-7a79-4f43-91c4-327e1a7acd71:
-  deaths: 516
+  deaths: 521
   name: Georgios_Caticus
   KDR: '1.00'
-  kills: 518
+  kills: 520
 5595f795-7c29-4529-bb14-031e8a377f3e:
-  deaths: 259
+  deaths: 261
   name: Sc0per
   KDR: '2.53'
-  kills: 656
+  kills: 661
 86b6b5a4-1a07-4634-801a-42f6120b5987:
-  deaths: 102
+  deaths: 108
   name: CommandoPea
-  KDR: '1.56'
-  kills: 159
+  KDR: '1.57'
+  kills: 170
 e061dec4-44c8-4e34-950a-f76eec663f6d:
   deaths: 160
   name: NijePavle
@@ -94,10 +94,10 @@ c732b472-ae07-475a-90b1-ab935b2af1e0:
   KDR: '1.10'
   deaths: 40
 3e852da0-f8c4-4083-b5af-a6128fc06909:
-  deaths: 180
+  deaths: 187
   name: 514k_
-  KDR: '1.28'
-  kills: 231
+  KDR: '1.26'
+  kills: 236
 67acfc5e-f935-4072-9dd5-ee676449c094:
   deaths: 12
   name: mariozane8731
@@ -129,19 +129,19 @@ f230f4e8-2dbb-4c63-b835-f29f9916326a:
   KDR: '1.14'
   deaths: 241
 20871b05-a818-4ec2-be98-466b1cd400f8:
-  kills: 13
+  kills: 14
   name: Isikus
-  KDR: '0.50'
-  deaths: 26
+  KDR: '0.35'
+  deaths: 40
 8e54a723-ebcd-47aa-abd8-06a73c513f4f:
   deaths: 7
   name: Itz_Opp121
   KDR: '0.00'
 f7a60482-f345-41b5-973c-635aaf139cba:
-  deaths: 303
+  deaths: 317
   name: Apterius
-  KDR: '0.54'
-  kills: 163
+  KDR: '0.55'
+  kills: 175
 dec41ecc-9dcf-41dd-bfc8-9d336fc0013c:
   deaths: 244
   name: RobinSGE3361
@@ -197,10 +197,10 @@ a9d60e02-0c8d-4d56-918e-e92b13bbecac:
   KDR: '0.86'
   deaths: 21
 79eec0a4-8d7e-4802-9a49-c7028d24759c:
-  kills: 39
+  kills: 54
   name: _wdg
-  KDR: '0.66'
-  deaths: 59
+  KDR: '0.82'
+  deaths: 66
 305f71e4-a1ab-48da-b47d-0b2d245778c7:
   deaths: 22
   name: Synergyz_
@@ -217,10 +217,10 @@ e66c931a-ea93-443f-aff9-c554b9e6c6af:
   KDR: '2.86'
   kills: 20
 565df65a-298c-4192-bf57-a536dcfea0d1:
-  deaths: 97
+  deaths: 103
   name: Kampfschwein297
-  KDR: '0.99'
-  kills: 96
+  KDR: '0.97'
+  kills: 100
 12cf91fe-0f06-46e8-8407-d0bf9c6038f0:
   kills: 37
   name: JustLead
@@ -291,3 +291,17 @@ f3c91fd1-46a9-44f1-a3b6-e4473f57bf41:
   name: Stayrs
   KDR: '0.17'
   kills: 5
+0ecc9b0b-b382-4708-b813-b6fc4c56d780:
+  kills: 2
+  name: _didoo_
+  KDR: '2.00'
+  deaths: 1
+2987b3e0-aec0-4f19-a92f-f8ca1d36a85c:
+  deaths: 3
+  name: _m1roo_
+  KDR: '0.67'
+  kills: 2
+d08ec83b-7d22-455d-966a-8864d435a420:
+  kills: 2
+  name: k6lb
+  KDR: '2.00'
