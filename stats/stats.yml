@@ -34,10 +34,10 @@ da6e223a-f49b-467a-8b7f-bd25618f7342:
   KDR: '1.57'
   kills: 170
 e061dec4-44c8-4e34-950a-f76eec663f6d:
-  deaths: 160
+  deaths: 204
   name: NijePavle
-  KDR: '0.70'
-  kills: 112
+  KDR: '0.93'
+  kills: 190
 78cfc07f-2e82-4bc9-ad17-374e5a89e980:
   kills: 194
   name: averagelittleboy
@@ -49,15 +49,15 @@ f6ae1f87-d5dd-4e94-8730-9e79caecedfb:
   KDR: '0.53'
   kills: 202
 ecb1824d-ab52-44f7-8b6c-f79d833d023e:
-  kills: 123
+  kills: 130
   name: Georgevits
-  KDR: '0.68'
-  deaths: 180
+  KDR: '0.72'
+  deaths: 181
 1d7357c5-8ba6-4083-a35b-9e5cfdc03831:
-  deaths: 18
+  deaths: 57
   name: xEsql
-  KDR: '0.39'
-  kills: 7
+  KDR: '0.49'
+  kills: 28
 073dc0ca-37c7-4477-86b8-c846722d528d:
   kills: 26
   name: YouGqtL
@@ -89,10 +89,10 @@ c732b472-ae07-475a-90b1-ab935b2af1e0:
   KDR: '0.55'
   kills: 24
 818704f8-98cb-4cef-9c31-e135ecaba28b:
-  kills: 44
+  kills: 61
   name: Supermanss
-  KDR: '1.10'
-  deaths: 40
+  KDR: '1.27'
+  deaths: 48
 3e852da0-f8c4-4083-b5af-a6128fc06909:
   deaths: 187
   name: 514k_
@@ -104,10 +104,10 @@ c732b472-ae07-475a-90b1-ab935b2af1e0:
   KDR: '0.08'
   kills: 1
 140740bb-8f69-4c64-8e8c-459f75a10000:
-  kills: 41
+  kills: 54
   name: IAMNOT_AMENACE
-  KDR: '0.47'
-  deaths: 88
+  KDR: '0.51'
+  deaths: 105
 f230f4e8-2dbb-4c63-b835-f29f9916326a:
   kills: 6
   name: C1WS
@@ -138,10 +138,10 @@ f230f4e8-2dbb-4c63-b835-f29f9916326a:
   name: Itz_Opp121
   KDR: '0.00'
 f7a60482-f345-41b5-973c-635aaf139cba:
-  deaths: 317
+  deaths: 318
   name: Apterius
-  KDR: '0.55'
-  kills: 175
+  KDR: '0.56'
+  kills: 178
 dec41ecc-9dcf-41dd-bfc8-9d336fc0013c:
   deaths: 244
   name: RobinSGE3361
@@ -172,10 +172,10 @@ f37a6294-7b88-4016-89f8-703ef2388136:
   KDR: '0.48'
   kills: 31
 02d7e13c-5214-4734-a11c-213540ca9628:
-  deaths: 51
+  deaths: 58
   name: xXDolusproXx
-  KDR: '0.39'
-  kills: 20
+  KDR: '0.36'
+  kills: 21
 a9d60e02-0c8d-4d56-918e-e92b13bbecac:
   kills: 169
   name: Zombto
@@ -197,10 +197,10 @@ a9d60e02-0c8d-4d56-918e-e92b13bbecac:
   KDR: '0.86'
   deaths: 21
 79eec0a4-8d7e-4802-9a49-c7028d24759c:
-  kills: 54
+  kills: 55
   name: _wdg
-  KDR: '0.82'
-  deaths: 66
+  KDR: '0.80'
+  deaths: 69
 305f71e4-a1ab-48da-b47d-0b2d245778c7:
   deaths: 22
   name: Synergyz_
@@ -305,3 +305,38 @@ d08ec83b-7d22-455d-966a-8864d435a420:
   kills: 2
   name: k6lb
   KDR: '2.00'
+655b78a1-833f-49ef-a396-913bd1d5da89:
+  deaths: 17
+  name: 2weeks2live
+  KDR: '0.47'
+  kills: 8
+fc4f7003-f67d-43dd-85d2-872d5bfdd0ab:
+  deaths: 81
+  name: TsenollisChunk
+  KDR: '1.43'
+  kills: 116
+ece81edc-1821-44fe-96fc-80788e6c9767:
+  deaths: 100
+  name: Ajtu
+  KDR: '0.95'
+  kills: 95
+9e47f8fd-cc25-4b62-a063-a4ccf07e9b41:
+  deaths: 105
+  name: hyzeryn
+  KDR: '0.63'
+  kills: 66
+bc6f05ae-7a26-4e56-a7d8-c43a88d02d19:
+  kills: 103
+  name: viktorasvas
+  KDR: '1.69'
+  deaths: 61
+2c4f684f-aeb8-4d87-8d88-f3eed04dd3af:
+  deaths: 160
+  name: Venizelikos
+  KDR: '0.76'
+  kills: 122
+55aa7bb6-b4fd-4793-ac91-b99bc3a0ba47:
+  deaths: 150
+  name: CrazyFish6371
+  KDR: '0.95'
+  kills: 143
